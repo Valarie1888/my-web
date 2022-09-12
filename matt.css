@@ -1,0 +1,16 @@
+*{
+    background-image: url(images.jpeg);
+}
+body{
+    background-color: blue;
+}
+
+nav li a{
+    color: aliceblue;
+}
+.n{
+    background-image: linear-gradient(to left, rgba(13, 77, 11, 0.2 ), rgba(13, 77, 11, 1)), url(/images/natashawajackoya.jpg);
+    background-size: cover;
+    height: 100vh;
+    color: whitesmoke;
+}
